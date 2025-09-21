@@ -20,9 +20,9 @@ curl -Lo ./kind https://kind.sigs.k8s.io/dl/v0.22.0/kind-linux-amd64```
 
 # Create a Kubernetes cluster using kind
 
-``` Create a Kubernetes cluster using kind 
 ```
-```kubectl get nodes
+Create a Kubernetes cluster using kind 
+kubectl get nodes
 ```
 
 # Build and Load Docker Image into kind
