@@ -1,5 +1,3 @@
-#GitHub Repo Setup
-#
 ## Push your project to GitHub.
 ##
 
